@@ -7,15 +7,75 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6648D5C72C555AFD00A58BB4 /* nikon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5C22C555AFD00A58BB4 /* nikon.png */; };
+		6648D5C82C555AFD00A58BB4 /* unknown.png in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5C42C555AFD00A58BB4 /* unknown.png */; };
+		6648D5C92C555AFD00A58BB4 /* Exo2-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5B32C555AFD00A58BB4 /* Exo2-SemiBold.ttf */; };
+		6648D5CA2C555AFD00A58BB4 /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5BE2C555AFD00A58BB4 /* apple.png */; };
+		6648D5CB2C555AFD00A58BB4 /* Exo2-Italic-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5B82C555AFD00A58BB4 /* Exo2-Italic-VariableFont_wght.ttf */; };
+		6648D5CC2C555AFD00A58BB4 /* sony.png in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5C32C555AFD00A58BB4 /* sony.png */; };
+		6648D5CD2C555AFD00A58BB4 /* Exo2-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5B22C555AFD00A58BB4 /* Exo2-Regular.ttf */; };
+		6648D5CE2C555AFD00A58BB4 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5BA2C555AFD00A58BB4 /* OFL.txt */; };
+		6648D5CF2C555AFD00A58BB4 /* leica.png in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5C12C555AFD00A58BB4 /* leica.png */; };
+		6648D5D02C555AFD00A58BB4 /* canon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5BF2C555AFD00A58BB4 /* canon.png */; };
+		6648D5D12C555AFD00A58BB4 /* Exo2-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5AB2C555AFD00A58BB4 /* Exo2-ExtraLight.ttf */; };
+		6648D5D22C555AFD00A58BB4 /* Exo2-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5B42C555AFD00A58BB4 /* Exo2-SemiBoldItalic.ttf */; };
+		6648D5D32C555AFD00A58BB4 /* Exo2-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5AA2C555AFD00A58BB4 /* Exo2-ExtraBoldItalic.ttf */; };
+		6648D5D42C555AFD00A58BB4 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5BB2C555AFD00A58BB4 /* README.txt */; };
+		6648D5D52C555AFD00A58BB4 /* Exo2-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5A62C555AFD00A58BB4 /* Exo2-BlackItalic.ttf */; };
+		6648D5D62C555AFD00A58BB4 /* Exo2-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5B62C555AFD00A58BB4 /* Exo2-ThinItalic.ttf */; };
+		6648D5D72C555AFD00A58BB4 /* Exo2-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5A92C555AFD00A58BB4 /* Exo2-ExtraBold.ttf */; };
+		6648D5D82C555AFD00A58BB4 /* Exo2-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5B52C555AFD00A58BB4 /* Exo2-Thin.ttf */; };
+		6648D5D92C555AFD00A58BB4 /* Exo2-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5AF2C555AFD00A58BB4 /* Exo2-LightItalic.ttf */; };
+		6648D5DA2C555AFD00A58BB4 /* Exo2-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5AC2C555AFD00A58BB4 /* Exo2-ExtraLightItalic.ttf */; };
+		6648D5DB2C555AFD00A58BB4 /* Exo2-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5B92C555AFD00A58BB4 /* Exo2-VariableFont_wght.ttf */; };
+		6648D5DC2C555AFD00A58BB4 /* Exo2-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5AE2C555AFD00A58BB4 /* Exo2-Light.ttf */; };
+		6648D5DD2C555AFD00A58BB4 /* Exo2-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5A72C555AFD00A58BB4 /* Exo2-Bold.ttf */; };
+		6648D5DE2C555AFD00A58BB4 /* fuji.png in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5C02C555AFD00A58BB4 /* fuji.png */; };
+		6648D5DF2C555AFD00A58BB4 /* Exo2-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5AD2C555AFD00A58BB4 /* Exo2-Italic.ttf */; };
+		6648D5E02C555AFD00A58BB4 /* Exo2-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5A82C555AFD00A58BB4 /* Exo2-BoldItalic.ttf */; };
+		6648D5E12C555AFD00A58BB4 /* Exo2-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5B12C555AFD00A58BB4 /* Exo2-MediumItalic.ttf */; };
+		6648D5E22C555AFD00A58BB4 /* Exo2-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5B02C555AFD00A58BB4 /* Exo2-Medium.ttf */; };
+		6648D5E32C555AFD00A58BB4 /* Exo2-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6648D5A52C555AFD00A58BB4 /* Exo2-Black.ttf */; };
 		F795A0832C5374280091E74F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F795A0822C5374280091E74F /* AppDelegate.swift */; };
 		F795A0852C5374280091E74F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F795A0842C5374280091E74F /* SceneDelegate.swift */; };
 		F795A0872C5374280091E74F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F795A0862C5374280091E74F /* ViewController.swift */; };
 		F795A08A2C5374280091E74F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F795A0892C5374280091E74F /* Base */; };
 		F795A08C2C53742B0091E74F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F795A08B2C53742B0091E74F /* Assets.xcassets */; };
 		F795A08F2C53742B0091E74F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F795A08E2C53742B0091E74F /* Base */; };
+		F795A0972C5374460091E74F /* UploadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F795A0962C5374460091E74F /* UploadViewController.swift */; };
+		F795A0992C538D4B0091E74F /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = F795A0982C538D4B0091E74F /* Photo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6648D5A52C555AFD00A58BB4 /* Exo2-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-Black.ttf"; sourceTree = "<group>"; };
+		6648D5A62C555AFD00A58BB4 /* Exo2-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-BlackItalic.ttf"; sourceTree = "<group>"; };
+		6648D5A72C555AFD00A58BB4 /* Exo2-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-Bold.ttf"; sourceTree = "<group>"; };
+		6648D5A82C555AFD00A58BB4 /* Exo2-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-BoldItalic.ttf"; sourceTree = "<group>"; };
+		6648D5A92C555AFD00A58BB4 /* Exo2-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-ExtraBold.ttf"; sourceTree = "<group>"; };
+		6648D5AA2C555AFD00A58BB4 /* Exo2-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		6648D5AB2C555AFD00A58BB4 /* Exo2-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-ExtraLight.ttf"; sourceTree = "<group>"; };
+		6648D5AC2C555AFD00A58BB4 /* Exo2-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		6648D5AD2C555AFD00A58BB4 /* Exo2-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-Italic.ttf"; sourceTree = "<group>"; };
+		6648D5AE2C555AFD00A58BB4 /* Exo2-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-Light.ttf"; sourceTree = "<group>"; };
+		6648D5AF2C555AFD00A58BB4 /* Exo2-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-LightItalic.ttf"; sourceTree = "<group>"; };
+		6648D5B02C555AFD00A58BB4 /* Exo2-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-Medium.ttf"; sourceTree = "<group>"; };
+		6648D5B12C555AFD00A58BB4 /* Exo2-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-MediumItalic.ttf"; sourceTree = "<group>"; };
+		6648D5B22C555AFD00A58BB4 /* Exo2-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-Regular.ttf"; sourceTree = "<group>"; };
+		6648D5B32C555AFD00A58BB4 /* Exo2-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-SemiBold.ttf"; sourceTree = "<group>"; };
+		6648D5B42C555AFD00A58BB4 /* Exo2-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		6648D5B52C555AFD00A58BB4 /* Exo2-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-Thin.ttf"; sourceTree = "<group>"; };
+		6648D5B62C555AFD00A58BB4 /* Exo2-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-ThinItalic.ttf"; sourceTree = "<group>"; };
+		6648D5B82C555AFD00A58BB4 /* Exo2-Italic-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-Italic-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		6648D5B92C555AFD00A58BB4 /* Exo2-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Exo2-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		6648D5BA2C555AFD00A58BB4 /* OFL.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		6648D5BB2C555AFD00A58BB4 /* README.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		6648D5BE2C555AFD00A58BB4 /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
+		6648D5BF2C555AFD00A58BB4 /* canon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = canon.png; sourceTree = "<group>"; };
+		6648D5C02C555AFD00A58BB4 /* fuji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fuji.png; sourceTree = "<group>"; };
+		6648D5C12C555AFD00A58BB4 /* leica.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leica.png; sourceTree = "<group>"; };
+		6648D5C22C555AFD00A58BB4 /* nikon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nikon.png; sourceTree = "<group>"; };
+		6648D5C32C555AFD00A58BB4 /* sony.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sony.png; sourceTree = "<group>"; };
+		6648D5C42C555AFD00A58BB4 /* unknown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unknown.png; sourceTree = "<group>"; };
 		F795A07F2C5374280091E74F /* PhotoDiary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PhotoDiary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F795A0822C5374280091E74F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F795A0842C5374280091E74F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +84,8 @@
 		F795A08B2C53742B0091E74F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F795A08E2C53742B0091E74F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F795A0902C53742B0091E74F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F795A0962C5374460091E74F /* UploadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadViewController.swift; sourceTree = "<group>"; };
+		F795A0982C538D4B0091E74F /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +99,74 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6648D5B72C555AFD00A58BB4 /* static */ = {
+			isa = PBXGroup;
+			children = (
+				6648D5A52C555AFD00A58BB4 /* Exo2-Black.ttf */,
+				6648D5A62C555AFD00A58BB4 /* Exo2-BlackItalic.ttf */,
+				6648D5A72C555AFD00A58BB4 /* Exo2-Bold.ttf */,
+				6648D5A82C555AFD00A58BB4 /* Exo2-BoldItalic.ttf */,
+				6648D5A92C555AFD00A58BB4 /* Exo2-ExtraBold.ttf */,
+				6648D5AA2C555AFD00A58BB4 /* Exo2-ExtraBoldItalic.ttf */,
+				6648D5AB2C555AFD00A58BB4 /* Exo2-ExtraLight.ttf */,
+				6648D5AC2C555AFD00A58BB4 /* Exo2-ExtraLightItalic.ttf */,
+				6648D5AD2C555AFD00A58BB4 /* Exo2-Italic.ttf */,
+				6648D5AE2C555AFD00A58BB4 /* Exo2-Light.ttf */,
+				6648D5AF2C555AFD00A58BB4 /* Exo2-LightItalic.ttf */,
+				6648D5B02C555AFD00A58BB4 /* Exo2-Medium.ttf */,
+				6648D5B12C555AFD00A58BB4 /* Exo2-MediumItalic.ttf */,
+				6648D5B22C555AFD00A58BB4 /* Exo2-Regular.ttf */,
+				6648D5B32C555AFD00A58BB4 /* Exo2-SemiBold.ttf */,
+				6648D5B42C555AFD00A58BB4 /* Exo2-SemiBoldItalic.ttf */,
+				6648D5B52C555AFD00A58BB4 /* Exo2-Thin.ttf */,
+				6648D5B62C555AFD00A58BB4 /* Exo2-ThinItalic.ttf */,
+			);
+			path = static;
+			sourceTree = "<group>";
+		};
+		6648D5BC2C555AFD00A58BB4 /* Exo_2 */ = {
+			isa = PBXGroup;
+			children = (
+				6648D5B72C555AFD00A58BB4 /* static */,
+				6648D5B82C555AFD00A58BB4 /* Exo2-Italic-VariableFont_wght.ttf */,
+				6648D5B92C555AFD00A58BB4 /* Exo2-VariableFont_wght.ttf */,
+				6648D5BA2C555AFD00A58BB4 /* OFL.txt */,
+				6648D5BB2C555AFD00A58BB4 /* README.txt */,
+			);
+			path = Exo_2;
+			sourceTree = "<group>";
+		};
+		6648D5BD2C555AFD00A58BB4 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				6648D5BC2C555AFD00A58BB4 /* Exo_2 */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		6648D5C52C555AFD00A58BB4 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				6648D5BE2C555AFD00A58BB4 /* apple.png */,
+				6648D5BF2C555AFD00A58BB4 /* canon.png */,
+				6648D5C02C555AFD00A58BB4 /* fuji.png */,
+				6648D5C12C555AFD00A58BB4 /* leica.png */,
+				6648D5C22C555AFD00A58BB4 /* nikon.png */,
+				6648D5C32C555AFD00A58BB4 /* sony.png */,
+				6648D5C42C555AFD00A58BB4 /* unknown.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		6648D5C62C555AFD00A58BB4 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				6648D5BD2C555AFD00A58BB4 /* fonts */,
+				6648D5C52C555AFD00A58BB4 /* image */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
 		F795A0762C5374270091E74F = {
 			isa = PBXGroup;
 			children = (
@@ -56,6 +186,7 @@
 		F795A0812C5374280091E74F /* PhotoDiary */ = {
 			isa = PBXGroup;
 			children = (
+				6648D5C62C555AFD00A58BB4 /* assets */,
 				F795A0822C5374280091E74F /* AppDelegate.swift */,
 				F795A0842C5374280091E74F /* SceneDelegate.swift */,
 				F795A0862C5374280091E74F /* ViewController.swift */,
@@ -63,6 +194,8 @@
 				F795A08B2C53742B0091E74F /* Assets.xcassets */,
 				F795A08D2C53742B0091E74F /* LaunchScreen.storyboard */,
 				F795A0902C53742B0091E74F /* Info.plist */,
+				F795A0962C5374460091E74F /* UploadViewController.swift */,
+				F795A0982C538D4B0091E74F /* Photo.swift */,
 			);
 			path = PhotoDiary;
 			sourceTree = "<group>";
@@ -127,6 +260,35 @@
 			files = (
 				F795A08C2C53742B0091E74F /* Assets.xcassets in Resources */,
 				F795A08F2C53742B0091E74F /* Base in Resources */,
+				6648D5C72C555AFD00A58BB4 /* nikon.png in Resources */,
+				6648D5C82C555AFD00A58BB4 /* unknown.png in Resources */,
+				6648D5C92C555AFD00A58BB4 /* Exo2-SemiBold.ttf in Resources */,
+				6648D5CA2C555AFD00A58BB4 /* apple.png in Resources */,
+				6648D5CB2C555AFD00A58BB4 /* Exo2-Italic-VariableFont_wght.ttf in Resources */,
+				6648D5CC2C555AFD00A58BB4 /* sony.png in Resources */,
+				6648D5CD2C555AFD00A58BB4 /* Exo2-Regular.ttf in Resources */,
+				6648D5CE2C555AFD00A58BB4 /* OFL.txt in Resources */,
+				6648D5CF2C555AFD00A58BB4 /* leica.png in Resources */,
+				6648D5D02C555AFD00A58BB4 /* canon.png in Resources */,
+				6648D5D12C555AFD00A58BB4 /* Exo2-ExtraLight.ttf in Resources */,
+				6648D5D22C555AFD00A58BB4 /* Exo2-SemiBoldItalic.ttf in Resources */,
+				6648D5D32C555AFD00A58BB4 /* Exo2-ExtraBoldItalic.ttf in Resources */,
+				6648D5D42C555AFD00A58BB4 /* README.txt in Resources */,
+				6648D5D52C555AFD00A58BB4 /* Exo2-BlackItalic.ttf in Resources */,
+				6648D5D62C555AFD00A58BB4 /* Exo2-ThinItalic.ttf in Resources */,
+				6648D5D72C555AFD00A58BB4 /* Exo2-ExtraBold.ttf in Resources */,
+				6648D5D82C555AFD00A58BB4 /* Exo2-Thin.ttf in Resources */,
+				6648D5D92C555AFD00A58BB4 /* Exo2-LightItalic.ttf in Resources */,
+				6648D5DA2C555AFD00A58BB4 /* Exo2-ExtraLightItalic.ttf in Resources */,
+				6648D5DB2C555AFD00A58BB4 /* Exo2-VariableFont_wght.ttf in Resources */,
+				6648D5DC2C555AFD00A58BB4 /* Exo2-Light.ttf in Resources */,
+				6648D5DD2C555AFD00A58BB4 /* Exo2-Bold.ttf in Resources */,
+				6648D5DE2C555AFD00A58BB4 /* fuji.png in Resources */,
+				6648D5DF2C555AFD00A58BB4 /* Exo2-Italic.ttf in Resources */,
+				6648D5E02C555AFD00A58BB4 /* Exo2-BoldItalic.ttf in Resources */,
+				6648D5E12C555AFD00A58BB4 /* Exo2-MediumItalic.ttf in Resources */,
+				6648D5E22C555AFD00A58BB4 /* Exo2-Medium.ttf in Resources */,
+				6648D5E32C555AFD00A58BB4 /* Exo2-Black.ttf in Resources */,
 				F795A08A2C5374280091E74F /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,8 +301,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				F795A0872C5374280091E74F /* ViewController.swift in Sources */,
+				F795A0972C5374460091E74F /* UploadViewController.swift in Sources */,
 				F795A0832C5374280091E74F /* AppDelegate.swift in Sources */,
 				F795A0852C5374280091E74F /* SceneDelegate.swift in Sources */,
+				F795A0992C538D4B0091E74F /* Photo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

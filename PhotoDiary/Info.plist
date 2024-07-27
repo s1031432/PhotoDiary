@@ -2,6 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Exo2-Regular.ttf</string>
+		<string>Exo2-Black.ttf</string>
+		<string>Exo2-BlackItalic.ttf</string>
+		<string>Exo2-Bold.ttf</string>
+		<string>Exo2-BoldItalic.ttf</string>
+		<string>Exo2-Medium.ttf</string>
+		<string>Exo2-MediumItalic.ttf</string>
+		<string>Exo2-Italic.ttf</string>
+		<string>Exo2-Thin.ttf</string>
+		<string>Exo2-ThinItalic.ttf</string>
+		<string>Exo2-Light.ttf</string>
+		<string>Exo2-LightItalic.ttf</string>
+	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string></string>
+	<key>NSCameraUsageDescription</key>
+	<string></string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
